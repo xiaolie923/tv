@@ -745,27 +745,6 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$订阅
 哈哈炫动,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=YanG-1989
 其他,#genre#
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8,大爱1台
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8,大爱2台
-番薯111,http://61.216.67.119:1935/TWHG/E1/playlist.m3u8,番薯111
-华视,https://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8,华视
-华藏卫视,https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8,华藏卫视
-寰宇新闻台,https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8,寰宇新闻台
-靖天电影台,https://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8,靖天电影台
-龙华电影,https://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8,龙华电影
-龙华日韩,https://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8,龙华日韩
-PTSXS 小公视,https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8,PTSXS 小公视
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8,人间卫视
-三立iNEWS,https://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8,三立iNEWS
-三立综合台,https://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8,三立综合台
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8,生命电视
-TVBS,https://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8,TVBS
-TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8,TVBS News
-TVBS新聞台,https://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8,TVBS新聞台
-tvN,https://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8,tvN
-唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8,唯心电视
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8,纬来精采
-中视,https://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8,中视
-中天新闻,https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8,中天新闻
-中天亚洲台,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8,中天亚洲台
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+中天新闻,https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+寰宇新闻台,https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
